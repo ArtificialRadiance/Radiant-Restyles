@@ -1,5 +1,5 @@
 # Radiant Restyles
-*Radiant Restyles* is simply a little project where I alter the base game sprites; all that you'll need to do to 'install' the mod is to download PNGs and put them in the sprite folder.
+*Radiant Restyles* is simply a small collection of ClanGen mods where I alter the base game sprites; all that you'll need to do to 'install' the mod is to download PNGs and put them in the sprite folder.
 
 ## Radiant Restyles: Eyes
 *Radiant Restyles: Eyes* will host all my sprite edits for `eyes`, and will kept up to date with current releases. No promises for the dev release, but I might end up doing them in the end. All eyes are shaded according to my art style.
