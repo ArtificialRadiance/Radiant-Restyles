@@ -12,9 +12,9 @@ Anything in the same category (i.e., `Retro` and `Wide-Eyed` in *Radiant Restyle
 
 ## Radiant Restyles: Eyes
 *Radiant Restyles: Eyes* will host all my sprite edits for `eyes`, and will kept up to date with current releases. No promises for the dev release, but I might end up doing them in the end. All eyes are shaded according to my art style.
-| Name | Description | Progress |
-| ----------- | ----------- | ----------- |
-| Retro | *Retextures vanilla colors to be similar to classic WC art styles of old; It makes the whites a more yellow color while the pupils are showing the true color.* | Completed |
-| Wide-Eyed | *Retextures vanilla colors to look a little more “cartoony”. Pupils are made black while the whites are showing the true color.* | Started |
-| Spider Gaze | *Retextures vanilla sprites to add multiple eyes on the head. Perfect for spookiness and fantasy if you want spidery cats. Will come in 2 versions; the one here will replace only vanilla eyes.* | Not Started |
-| Multigaze | *Retextures vanilla sprites to add multiple eyes along the body. Perfect for spookiness and fantasy if you want eldritch-looking cats. Will come in 2 versions; the one here will replace only vanilla eyes. Inspired by Flight Rising.* | Not Started |
+| Name | Description | Progress | Version |
+| ----------- | ----------- | ----------- | ----------- |
+| Retro | *Retextures vanilla colors to be similar to classic WC art styles of old. Pupils reflect the eye color while irises are restyled to look more like the sclera instead.* | Completed; Posted | Public Release v.0.8.x |
+| Shaded | *Retextures vanilla colors to be slightly darker, giving it a heavily shaded appearance. Pupils are much darker and have values added, while the irises are shaded with the old pupil colors.* | Completed | Public Release v.0.8.x |
+| Spider Gaze | *Retextures vanilla sprites to add multiple eyes on the head. Perfect for spookiness and fantasy if you want spidery cats. Will come in 2 versions; the one here will replace only vanilla eyes.* | Not Started | N.A. |
+| Multigaze | *Retextures vanilla sprites to add multiple eyes along the body. Perfect for spookiness and fantasy if you want eldritch-looking cats. Will come in 2 versions; the one here will replace only vanilla eyes. Inspired by Flight Rising.* | Not Started | N.A. |
